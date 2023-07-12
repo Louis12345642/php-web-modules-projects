@@ -1,0 +1,13 @@
+label,input,button{
+    display: block;
+    margin-top:10px;
+    margin-bottom:10 ;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
